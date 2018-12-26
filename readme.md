@@ -7,5 +7,7 @@ Git has mutable index called stage.
 Git tracks changes of files.
 
 # Presentation
+progress
 
 # GitHub
+usage
